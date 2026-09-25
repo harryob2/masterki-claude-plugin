@@ -34,6 +34,10 @@ To disconnect, open **Settings → Connect MasterKi to AI apps** in the app and 
 - "Turn the Spanish phrases we practised into MasterKi cards for my Spanish deck."
 - "Save five cards about the causes of the First World War to MasterKi."
 
+## Documentation
+
+Setup and usage: https://masterki.org/ai-apps
+
 ## Privacy Policy
 
 Full policy: https://masterki.org/privacy
