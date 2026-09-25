@@ -1,0 +1,14 @@
+{
+  "name": "masterki",
+  "displayName": "MasterKi",
+  "version": "1.0.0",
+  "description": "Turn conversations, notes and vocabulary into spaced-repetition flashcards that wait in your MasterKi app for review.",
+  "author": {
+    "name": "MasterKi",
+    "url": "https://masterki.org"
+  },
+  "homepage": "https://masterki.org",
+  "repository": "https://github.com/harryob2/masterki-claude-plugin",
+  "license": "MIT",
+  "keywords": ["flashcards", "spaced-repetition", "anki", "study", "language-learning"]
+}
