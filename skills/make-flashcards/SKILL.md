@@ -26,4 +26,10 @@ MasterKi saves cards to an inbox in the user's app. Nothing is added to a deck u
 
 ## If MasterKi isn't connected
 
-When the tool asks for sign-in, the user can either type a pairing code from the MasterKi app (Settings → Connect MasterKi to AI apps → Get a pairing code) or sign in with their MasterKi email and password on the page that opens.
+MasterKi needs a one-time sign-in before it can save cards. If the tool asks for sign-in or says MasterKi isn't connected, tell the user what to do instead of retrying:
+
+1. Install the MasterKi app (iPhone, iPad, Mac or Android) and sign in. Cards are saved to that account, so the app must be set up first.
+2. In the app, open **Settings → Connect MasterKi to AI apps** and tap **Get a pairing code**.
+3. Type the code on the MasterKi sign-in page that opens (iOS and Mac users can sign in there with their MasterKi email and password instead).
+
+A code works once, lasts 10 minutes, and only the newest code counts. If the page says it didn't match, tap **Get a new code** in the app and try that one. Full guide: https://masterki.org/ai-apps

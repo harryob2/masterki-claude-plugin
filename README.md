@@ -21,9 +21,11 @@ MasterKi is a spaced-repetition flashcard app for Android and iOS. This plugin l
 
 ## Connect your account
 
+Install MasterKi (iPhone, iPad, Mac or Android) and sign in first. Cards are saved to that account.
+
 The first time Claude uses MasterKi, it opens a MasterKi sign-in page. Use either:
 
-- **A pairing code:** in the MasterKi app, open **Settings → Connect MasterKi to AI apps** and tap **Get a pairing code**, then type the code on the page.
+- **A pairing code:** in the MasterKi app, open **Settings → Connect MasterKi to AI apps** and tap **Get a pairing code**, then type the code on the page. A code works once, lasts 10 minutes, and only the newest one counts.
 - **Your MasterKi email and password,** if you have an email login (the iOS app).
 
 To disconnect, open **Settings → Connect MasterKi to AI apps** in the app and remove Claude from the connected apps list.
