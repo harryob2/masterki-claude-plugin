@@ -10,5 +10,13 @@
   "homepage": "https://masterki.org",
   "repository": "https://github.com/harryob2/masterki-claude-plugin",
   "license": "MIT",
-  "keywords": ["flashcards", "spaced-repetition", "anki", "study", "language-learning"]
+  "keywords": [
+    "flashcards",
+    "spaced-repetition",
+    "anki",
+    "study",
+    "language-learning"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://masterki.org/privacy"
 }
