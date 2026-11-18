@@ -1,0 +1,11 @@
+{
+  "name": "masterki",
+  "version": "1.1.0",
+  "description": "Make flashcards and search, edit and tidy your Anki decks from Gemini CLI. MasterKi syncs them to Anki through AnkiWeb.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "masterki": {
+      "httpUrl": "https://masterki.org/mcp"
+    }
+  }
+}
